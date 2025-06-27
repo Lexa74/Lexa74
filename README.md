@@ -16,9 +16,11 @@
 
 ### 📈 Моя статистика на GitHub:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true&theme=radical&hide_border=true)](https://github.com/Lexa74)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true&theme=radical&hide_border=true?style=centered)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexa74&layout=compact&theme=radical&hide_border=true)](https://github.com/ТВОЙ_НИК)
 
+<v align="center">asd</v> 
+ 
 ### 💼 Мои проекты:
 
 🔸 **[Название проекта](ссылка)** – Краткое описание (например, интернет-магаз на Next.js)  
@@ -27,7 +29,7 @@
 
 ### 📫 Как связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/твой_ник)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/sealexey)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/твой_ник)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:твоя@почта.ру)
 
