@@ -16,10 +16,20 @@
 
 ### 📈 Моя статистика на GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true&theme=radical&hide_border=true?style=centered)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexa74&layout=compact&theme=radical&hide_border=true)](https://github.com/ТВОЙ_НИК)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexa74&layout=compact&theme=radical&hide_border=true)
 
-<v align="center">asd</v> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lexa74&show_icons=true" />
+</picture>
  
 ### 💼 Мои проекты:
 
